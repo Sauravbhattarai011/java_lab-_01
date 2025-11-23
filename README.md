@@ -1,2 +1,2 @@
-# java_lab-_01
+# java_lab
 collage work
